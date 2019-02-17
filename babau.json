@@ -1,0 +1,167 @@
+[
+ {
+   "FIELD1": "Matatu Route Number",
+   "FIELD2": "Destination/ Bus-Stops",
+   "FIELD3": "Where to the Pick Matatu in Nairobi."
+ },
+ {
+   "FIELD1": "Matatu Route Number 1",
+   "FIELD2": "Ngong Road, Citam/NPC Valley road, The Junction Mall, Dagoretti",
+   "FIELD3": "General Post Office/ GPO"
+ },
+ {
+   "FIELD1": "Matatu Route Number 2",
+   "FIELD2": "Ngong Road, Citam/NPC Valley Rd, The junction Mall, Dagoretti Kikuyu",
+   "FIELD3": "GPO  or KBS stage"
+ },
+ {
+   "FIELD1": "Matatu Route  Number 3",
+   "FIELD2": "Ngong Road, Adam;s Arcade, Dagoretti corner",
+   "FIELD3": "GPO"
+ },
+ {
+   "FIELD1": "Matatu Route Number 4",
+   "FIELD2": "Ngong Road, Adams, Dagoretti",
+   "FIELD3": "Kencom or GPO"
+ },
+ {
+   "FIELD1": "Matatu Route Number 6",
+   "FIELD2": "Eastleigh Area/ Pangani Girls/ Pangani Shopping Centre. Kariokor Market",
+   "FIELD3": "Board the Matatu from Accra Rd or  Along Tom Mboya Street. They are usually mini-buses and they use the kariokor market route."
+ },
+ {
+   "FIELD1": "Matatu Route Number 7C",
+   "FIELD2": "Community, Upper hill Area, Kenyatta National Hospital, Nairobi Hospital, Doctors Plaza Silver Springs hotel",
+   "FIELD3": "Board the Citi Hoppa or KBS buses at Kencom House opp Hilton Hotel along Moi avenue"
+ },
+ {
+   "FIELD1": "Matatu Route Number 8",
+   "FIELD2": "Ngong road, Kibera Slums/Kibra, Adams Arcade, Toi Market",
+   "FIELD3": "Board the matatu from Railways bus station."
+ },
+ {
+   "FIELD1": "Matatu Route Number 9",
+   "FIELD2": "Eastleigh Area. Ngara Civil Servants Housing Scheme, K.I.E, Pangani Roundabout. Fig Tree Trade Center Ngara",
+   "FIELD3": "Board the matatu at Tom Mboya Street or near the Tuskys beba beba Supermarket. These matatus use the Ngara Route"
+ },
+ {
+   "FIELD1": "Matatu Route Number 11",
+   "FIELD2": "South B, Bellevue",
+   "FIELD3": "Board the matatu from Railways Bus station"
+ },
+ {
+   "FIELD1": "Matatu Route Number 15",
+   "FIELD2": "Nyayo Stadium, Nairobi west &Madaraka (near the road), Tuskys T-mall, Wilson Airport, Carnivore Simba Sallon, Uhuru Gardens, Langata Shopping Centre, Otiende, Barracks, Langata Cemetry (on the lower side), Nairobi Safari walk and Nairobi National Park, Nairobi Animal Orphanage",
+   "FIELD3": "Board the matatu from Bus Station main stage or further from the main stage at waiting matatus opp afya center. (the 2nd option is not always available and depends on absence of county askaris)"
+ },
+ {
+   "FIELD1": "Matatu Route Number 14",
+   "FIELD2": "Langata road upto T-Mall, Strathmore University, Nairobi West,",
+   "FIELD3": "Board Matatu at BS behind Afya Centre"
+ },
+ {
+   "FIELD1": "Matatu Route Number 17B",
+   "FIELD2": "Thika road, Thika super highway, Roysambu, Kasarani, Santon, Mwiki, St Francis Hospital,",
+   "FIELD3": "Board the matatu from inside Kenya Bus Station or from outside BS near the St Peter Claviers Catholic Church"
+ },
+ {
+   "FIELD1": "Matatu Route Number 23",
+   "FIELD2": "Kangemi, Westlands, Uhuru Highway, Kangemi, ABC place, Safaricom House and Uhuru highway.",
+   "FIELD3": "Board the Matatu at Odeon cinema / Latema Road off tom Mboya street"
+ },
+ {
+   "FIELD1": "Matatu Route Number 24",
+   "FIELD2": "Karen Shopping Centre, Hardy, all Langata road routes, Bogani, Bomas of  Kenya, Galleria Shopping Mall, Catholic University, Kenya School of Law, Nairobi Academy, Hill Crest International School, Animal protection, Co-op bank training centre, Giraffe Center, Karen C school.",
+   "FIELD3": "Kenya Bus Station /BS, Mfangano street or main buses at Kencom House Moi Avenue"
+ },
+ {
+   "FIELD1": "Matatu Route Number 25",
+   "FIELD2": "Baba Ndogo, Thika Road upto GSU flyover,",
+   "FIELD3": "Board the matau from Timboroa Lane"
+ },
+ {
+   "FIELD1": "Matatu Route Number 33",
+   "FIELD2": "Ngumo Estate, KNH, Mbagathi, Masai Market",
+   "FIELD3": "Board the matatu from opp St Peter Claviers Catholic church or near OTC /Salvation Army areas"
+ },
+ {
+   "FIELD1": "Matatu Route Number 33",
+   "FIELD2": "Embakasi route, through joggo road, donholm, City Stadium, Pipeline, Tumaini Estate and Fedha Estate, Avenue Estate",
+   "FIELD3": "Board the matatu at Muthurwa market or along tom mboya street opp National Archives"
+ },
+ {
+   "FIELD1": "Matatu Route Number 34",
+   "FIELD2": "Langata Area through Mbagathi road, KNH, T-mall, Wilson Airport, Carnivore, Langata shopping Centre.",
+   "FIELD3": "Board the Matatu from behind St Peters Clavers Church or Opposite OTC"
+ },
+ {
+   "FIELD1": "Matatu Route Number 34 (buses)",
+   "FIELD2": "JKIA, Jogoo Road, Embakasi, Fedha, Donholm, Pipeline, Utawala,  (Sometimes Mombasa Road)",
+   "FIELD3": "Board the bus from Kencom or Ambassador stage"
+ },
+ {
+   "FIELD1": "Matatu Routes Number 35/60",
+   "FIELD2": "Umoja Innercore, Umoja I and Umoja II",
+   "FIELD3": "Board bus at Ronald Ngala Street Mfangano street intersect opp Naivas Supermarket"
+ },
+ {
+   "FIELD1": "Matatu Route Number 44",
+   "FIELD2": "Kahawa West, Kamiti Maximum Prison, Zimmerman,  Githurai 44 Roysambu, USIU, Farmers Choice, Northern Bypass",
+   "FIELD3": "Board bus from Nakumatt Ronald Ngala Street or matatus from Tuskys Beba beba"
+ },
+ {
+   "FIELD1": "Matatu Route Number 45",
+   "FIELD2": "Thika Road, Thika Super highway, Githurai 45",
+   "FIELD3": "Board the buses from Nakumatt Ronald Ngala street opp Posta R/ngala"
+ },
+ {
+   "FIELD1": "Matatu Route Number 58",
+   "FIELD2": "Buru buru",
+   "FIELD3": "Board at Tom Mboya Street opp National Archives"
+ },
+ {
+   "FIELD1": "Matatu Number 100",
+   "FIELD2": "Kiambu town, kiambu road, Sharks Palace Kiambu road, CID center,  Ridgeways, Rock city kiambu road, Muthaiga roundabout",
+   "FIELD3": "Pick the matatu along Ronald Ngala Street all the way to Ring-road Ngara or opp St. peters Claviers Catholic Church"
+ },
+ {
+   "FIELD1": "Matatu Number 102",
+   "FIELD2": "Kikuyu Township, Dagoretii, Ngong road, The junction mall etc",
+   "FIELD3": "Board from BS or Kencom"
+ },
+ {
+   "FIELD1": "Matatu Number 105",
+   "FIELD2": "Kikuyu via Uhuru highway, Westlands, Kangemi, Uthiru, Kinoo",
+   "FIELD3": "Board the matatu along tom Mboya Street near National Archives or from Railways bus station"
+ },
+ {
+   "FIELD1": "Matatu Number 106",
+   "FIELD2": "Banana, Muchatha, village Market",
+   "FIELD3": "Koja Mosque stage"
+ },
+ {
+   "FIELD1": "Matatu Number 110",
+   "FIELD2": "Kitengela, mlolongo, Athi river",
+   "FIELD3": "Board from Railways station at the entrance of near the railways station"
+ },
+ {
+   "FIELD1": "Matatu Number 111",
+   "FIELD2": "Ngong, Ngong road, Dagaoretti corner, (sometimes kiserian,)",
+   "FIELD3": "Board from Kencom or Railways bus station."
+ },
+ {
+   "FIELD1": "Matatu Number 125/126",
+   "FIELD2": "Ongata Rongai, Kiserian, Bomas of Kenya, Nazarene University, Catholic University, Multimedia University, Nairobi National Park/ orphanage, Safari walk, Langata Barracks, Galleria, Brookhouse International School, Langata hospital, Langata Police Station, Langata Cemetry",
+   "FIELD3": "Board from Railways bus station"
+ },
+ {
+   "FIELD1": "Matatu Number 146",
+   "FIELD2": "Ruiru, Thika Road, Kahawa Wendani, Kahawa Barracks,  Kahawa Sukari, Kenyatta University/ KU, Ruiru Bypass",
+   "FIELD3": "Board from Mumbi Lane off Ronald Ngala Street"
+ },
+ {
+   "FIELD1": "Matatu Number 237",
+   "FIELD2": "Thika town, all routes on Thika Road, Kahawa Ruiru",
+   "FIELD3": ""
+ }
+]
