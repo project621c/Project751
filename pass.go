@@ -20,6 +20,7 @@ func loadConfig() {
 	if err != nil {
 		fmt.Println("Cannot open dafile", err)
 	}
+	defer file.Close()
 	decoder := json.NewDecoder(file)
 	njia = Table{}
 	err = decoder.Decode(&njia)
@@ -29,5 +30,5 @@ func loadConfig() {
 }
 
 func main() {
-		fmt.Println("Just the start")
+	loadConfig()
 }
