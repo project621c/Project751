@@ -1,34 +1,34 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"os"
+	"encoding/json"
 )
 
-type Table struct {
-	FIELD1 string
-	FIELD2 string
-	FIELD3 string
-}
+type MyJSon []struct {
+	Field1	string	`json:"FIELD1"`
+	Field2	string	`json:"FIELD2"`
+	Field3	string	`json:"FIELD3"`
 
-var njia Table
+}
 
 func loadConfig() {
-	//takes in the main data file 
 	file, err := os.Open("babau.json")
 	if err != nil {
-		fmt.Println("Cannot open dafile", err)
+		fmt.Println("Cannot open babau file", err)
 	}
-	defer file.Close()
 	decoder := json.NewDecoder(file)
-	njia = Table{}
-	err = decoder.Decode(&njia)
+	myJson := MyJSon{}
+	err = decoder.Decode(&myJson)
 	if err != nil {
-		fmt.Println("Cannot get datfile", err)
+		fmt.Println("Cannot get configuration from file", err)
+	} else {
+		fmt.Println(myJson)
 	}
 }
 
-func main() {
+	
+func main(){
 	loadConfig()
 }
